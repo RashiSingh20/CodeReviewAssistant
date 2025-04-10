@@ -55,7 +55,7 @@ my-react-file-upload-app
 
 ## Contributing
 
-Feel free to submit issues or pull requests if you have suggestions or improvements for the project.
+Feel free to submit issues or pull requests if you have suggestions or improvements for the project. Feel free to improve the UI and user experience
 
 ## License
 
